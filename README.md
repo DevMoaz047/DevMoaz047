@@ -7,7 +7,7 @@
 - LinkedIn - https://www.linkedin.com/in/moaz-ahmad-khalid-b513b721a/
 - GitHub - https://github.com/DevMoaz047
 - Language and Tools
-- Js Html Css Flutter Dart BootStrap
+- React Js Html Css Flutter Dart BootStrap PHP Wordpress 
  
 Welcome to my GitHub profile! I am a passionate Full Stack Developer with expertise in both front-end and back-end technologies. I enjoy building dynamic and responsive web applications, and I am constantly honing my skills.
 - Front-End and Backend Development
