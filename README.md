@@ -1,5 +1,5 @@
-                                                            👋 Hi, I’m Moaz Ahmad
-                                               A Passionate MERN STACK Developer from Pakistan
+                                                         #   👋 Hi, I’m Moaz Ahmad
+- A Passionate MERN STACK Developer from Pakistan
 - 👀 I’m interested in coding
 - 🌱 I’m learning Web Development
 - 💬 Ask me about                                 **JAVASCRIPT REACT NODE EXPRESS MONGO-DB  **
