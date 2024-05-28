@@ -1,4 +1,4 @@
-                                                         #   👋 Hi, I’m Moaz Ahmad
+#  Hi 👋, I’m Moaz Ahmad
 - A Passionate MERN STACK Developer from Pakistan
 - 👀 I’m interested in coding
 - 🌱 I’m learning Web Development
